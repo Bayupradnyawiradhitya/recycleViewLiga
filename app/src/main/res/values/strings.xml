@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">recycleViewLiga</string>
+    <string name="club_name">Club_Name</string>
+    <string name="deskripsi">Deskripsi</string>
+</resources>
